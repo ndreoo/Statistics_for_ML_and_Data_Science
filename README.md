@@ -7,5 +7,5 @@ In this proect we have worked in groups to manage and explore topics like:
   - Clustering
   - Linear Regression
   - Desing of Experiments
-
+# For all the details please refer to ElaborationSystems.pdf
       
